@@ -1,0 +1,20 @@
+# Custom Language File for Hanlado Launcher
+
+[ejs.app]
+title = "Hanlado Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/donghune/hanlado-launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/donghune/hanlado-launcher"
+supportLink = "https://github.com/donghune/hanlado-launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "한라농장"
+welcomeDescription = "한라도에서 펼쳐지는 김한라의 한라봉 농장 생활! 끊임없이 늘어나는 한라봉 주문 속에서, 한라는 모든 한라봉을 납품할 수 있을까요? 한라도에서 만나요!"
+welcomeDescCTA = "몇 번의 클릭만으로 한라농장에 입장할 수 있습니다."
