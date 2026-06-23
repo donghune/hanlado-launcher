@@ -181,8 +181,8 @@
           "name": "Hanlado Mod",
           "type": "FabricMod",
           "artifact": {
-            "size": 1260708,
-            "MD5": "bf98b3b31ec408b2f5777c1ed34a2687",
+            "size": 1261020,
+            "MD5": "c27468c656fac03764e291133353cdef",
             "url": "https://github.com/donghune/hanlado-launcher/releases/download/v1.0.0/hanlado_client-1.0-SNAPSHOT.jar"
           }
         }
